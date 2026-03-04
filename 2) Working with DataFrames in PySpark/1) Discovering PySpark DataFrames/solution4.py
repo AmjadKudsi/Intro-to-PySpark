@@ -26,7 +26,7 @@ rdd = spark.sparkContext.parallelize(data)
 df_from_rdd = spark.createDataFrame(rdd,["Name", "Value"])
 
 # TODO: Print the number of rows in the DataFrame created from the RDD
-df_from_rdd.printSchema()
+print("Number of rows in the DataFrame: ", df_from_rdd.count())
 
 # Stop the SparkSession to release resources
 spark.stop()
