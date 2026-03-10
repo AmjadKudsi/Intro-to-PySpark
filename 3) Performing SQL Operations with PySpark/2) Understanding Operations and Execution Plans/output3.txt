@@ -1,0 +1,33 @@
+== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[Country#20], functions=[avg(datediff(2026-03-10, Subscription Date#23))])
+   +- Exchange hashpartitioning(Country#20, 200), ENSURE_REQUIREMENTS, [plan_id=33]
+      +- HashAggregate(keys=[Country#20], functions=[partial_avg(datediff(2026-03-10, Subscription Date#23))])
+         +- FileScan csv [Country#20,Subscription Date#23] Batched: false, DataFilters: [], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/usercode/FILESYSTEM/customers.csv], PartitionFilters: [], PushedFilters: [], ReadSchema: struct<Country:string,Subscription Date:date>
+
+
++--------------------+-----------------------+
+|             Country|avg_subscription_period|
++--------------------+-----------------------+
+|                Chad|     1028.5813953488373|
+|            Anguilla|      1289.936170212766|
+|            Paraguay|              1173.8125|
+|               Macao|     1142.2121212121212|
+|Heard Island and ...|     1095.0212765957447|
+|               Yemen|     1146.1842105263158|
+|             Senegal|      1167.341463414634|
+|              Sweden|      1238.095238095238|
+|             Tokelau|      904.1315789473684|
+|            Kiribati|     1070.9736842105262|
+|French Southern T...|      960.3061224489796|
+|              Guyana|      1057.088888888889|
+|         Philippines|     1059.0816326530612|
+|             Eritrea|     1243.7954545454545|
+|              Jersey|       982.936170212766|
+|            Djibouti|      931.3947368421053|
+|      Norfolk Island|      971.8571428571429|
+|               Tonga|     1174.3529411764705|
+|           Singapore|     1098.6842105263158|
+|            Malaysia|     1365.9333333333334|
++--------------------+-----------------------+
+only showing top 20 rows
