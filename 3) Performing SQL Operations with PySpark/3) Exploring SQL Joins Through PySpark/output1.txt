@@ -1,0 +1,25 @@
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|Customer ID| First Name|Last Name|             Country|               Phone|               Email|Subscription Date|PurchaseAmount|
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|         14|       Alan|Robertson|               Yemen|  234-215-3403x20260| zturner@example.net|       2023-11-15|        966.66|
+|         25|     Amanda|     Gray|              Gambia|        684-980-9353|rbarnett@example.net|       2024-02-10|        335.51|
+|         29|     Robert|  Salazar|Holy See (Vatican...|       (620)477-7101|stewartmatthew@ex...|       2023-07-01|        316.23|
+|         30|      Holly|  Hopkins|    Christmas Island| +1-804-600-0743x244|harrisonkimberly@...|       2025-07-20|        129.11|
+|         31|    Richard|   Taylor|                Peru|    326.361.3945x584|   hware@example.org|       2024-04-21|          55.3|
+|         32|  Francisco|Schneider|           Greenland|  (499)683-8576x0342|nicholsonmargaret...|       2025-05-12|        466.62|
+|         37|     Austin|    Ortiz|               Italy|001-276-851-3191x059|cassandramartinez...|       2023-04-06|        903.35|
+|         38|     Dwayne|Rodriguez|             Ukraine|    378-486-1079x237| scott78@example.com|       2023-02-10|         236.7|
+|         46|  Christian| Ferguson|               Benin|    215.956.7845x219| misty93@example.com|       2020-10-06|        728.85|
+|         60|     Justin|   Moreno|                Chad|     +1-612-303-2419|annajohnson@examp...|       2024-09-16|        484.39|
+|         66|    Timothy|   Hughes|               Yemen|        515-581-3101|ayalajeffrey@exam...|       2021-05-31|         143.0|
+|         78|       Adam|  Jackson|      Western Sahara|  460.639.4202x71062|adkinspeter@examp...|       2025-10-25|         824.5|
+|         84|      Maria|   Jordan|         Afghanistan| (452)273-9238x24769|nicoleshort@examp...|       2023-05-05|        371.84|
+|         87|     Daniel|   Lucero|              Taiwan|       (339)557-8356|guzmancarla@examp...|       2025-07-01|        287.78|
+|        112|     Jeremy|     Tran|South Georgia and...|001-566-299-0793x...|cunninghamrodney@...|       2021-03-25|         309.7|
+|        128|     Jordan|   Flores|Turks and Caicos ...|+1-446-664-7113x8757|ddougherty@exampl...|       2022-03-09|         31.64|
+|        146|    Frances|  Jackson|            Bulgaria|        599-953-4415|moodybrett@exampl...|       2025-10-01|        101.53|
+|        147|        Mia|     Ford|              Guyana|        223.501.0259| logan18@example.com|       2020-03-25|        470.97|
+|        151|Christopher|    Green|          Mauritania|   965.399.2693x0967| julie35@example.org|       2022-10-10|         20.69|
+|        156|       Paul|   Norris|Turks and Caicos ...|        997.310.6518|ncopeland@example...|       2020-09-07|        205.28|
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+only showing top 20 rows

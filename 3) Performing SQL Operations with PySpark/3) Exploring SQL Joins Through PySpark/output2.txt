@@ -1,0 +1,25 @@
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|Customer ID|First Name|Last Name|             Country|               Phone|               Email|Subscription Date|PurchaseAmount|
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|          8|    Rodney|    Ortiz|          Kazakhstan|  376-683-7019x31215|micheal92@example...|       2024-07-21|        421.36|
+|         14|     Nancy| Robinson|               Korea|       (778)562-7930|melissa64@example...|       2020-03-16|        157.38|
+|         17|   Matthew|    Cohen|British Virgin Is...| (874)970-7502x89915|littlenicholas@ex...|       2023-09-17|        435.05|
+|         21|   Shannon|    Smith|Saint Kitts and N...| +1-694-674-9620x995|pateleric@example...|       2021-06-20|        680.45|
+|         21|   Shannon|    Smith|Saint Kitts and N...| +1-694-674-9620x995|pateleric@example...|       2021-06-20|        451.43|
+|         33|    Taylor|   Holmes|            Djibouti|   625.490.0892x7205| lcarter@example.org|       2025-08-28|         503.1|
+|         33|    Taylor|   Holmes|            Djibouti|   625.490.0892x7205| lcarter@example.org|       2025-08-28|        445.89|
+|         34|      Mark|   Bailey|   Equatorial Guinea| +1-219-558-8466x534|    rday@example.net|       2024-07-03|        105.09|
+|         36|   Timothy|   Medina|          Cape Verde|001-369-918-1631x...|glenndavid@exampl...|       2023-03-12|        503.99|
+|         37|    Marcus|   Wright|              Jordan|    727.980.7440x801|micheal71@example...|       2022-05-22|         662.9|
+|         43|    Philip|    Russo|          Seychelles|    431-978-2002x370|  ujones@example.com|       2020-06-25|         35.27|
+|         47|   Cynthia| Bradford|          Tajikistan| (743)300-2858x05955| carla43@example.com|       2022-08-27|        603.28|
+|         58|    Alicia|   Campos|     North Macedonia|     +1-559-888-9539|millershannon@exa...|       2025-06-14|        941.96|
+|         58|    Alicia|   Campos|     North Macedonia|     +1-559-888-9539|millershannon@exa...|       2025-06-14|        170.93|
+|         67|    Sandra|     Bean|Bouvet Island (Bo...| (794)605-9136x59555|ronaldmckee@examp...|       2021-04-24|        202.22|
+|         69|     Sarah|     Ward|    French Polynesia|  608-974-3192x52795| wwarren@example.com|       2022-01-29|        322.99|
+|         78| Elizabeth|    Allen|Bouvet Island (Bo...|+1-401-550-0039x6512|danielle42@exampl...|       2025-09-08|        805.99|
+|         83|   William| Franklin|              Panama|001-746-892-9651x413|brandon98@example...|       2023-04-30|        240.55|
+|         95|     Jacob|  Wallace|                Iraq|       (564)355-9137|dianaibarra@examp...|       2025-01-01|         500.4|
+|        106|    Autumn| Gonzales|Bouvet Island (Bo...|   329-500-7243x6662|oliverjennifer@ex...|       2024-06-23|        697.43|
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+only showing top 20 rows

@@ -1,0 +1,25 @@
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|Customer ID| First Name|Last Name|             Country|               Phone|               Email|Subscription Date|PurchaseAmount|
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|       4721|      Kelly|   Waller|             Armenia|+1-534-948-1118x7...|masonjessica@exam...|       2022-12-18|        270.01|
+|       1878|       Seth| Friedman| Antigua and Barbuda|001-748-726-3340x...| zmiller@example.com|       2020-07-08|        357.91|
+|       5494|      Scott|   Hughes|             Bahamas|   (647)803-8395x189|lawrencewilliam@e...|       2022-07-30|        379.69|
+|       3235|    Brandon|     Wong|             Mayotte|  947.621.8170x22346|stephensdevin@exa...|       2023-04-30|        311.03|
+|         43|    Felicia|  Alvarez|         Puerto Rico|        506.804.6680|nraymond@example.com|       2022-09-22|        124.83|
+|        706|      David| Morrison|Libyan Arab Jamah...| +1-713-252-8412x806|tiffanymiller@exa...|       2020-10-07|        919.95|
+|       2055|     Tyrone|  Johnson|           Argentina|    001-975-738-9534|     gyu@example.net|       2021-01-30|        169.19|
+|       1101|      Penny|   Garcia|             Bolivia|        699-749-4923|sjohnson@example.org|       2026-02-12|        334.82|
+|       2157|Christopher|     Cruz|               Congo|    539.794.6367x473|    ylee@example.com|       2021-12-17|        197.77|
+|       5993|       Gary|  Sherman|Svalbard & Jan Ma...|   724-359-1721x8379|gregorymichelle@e...|       2023-05-19|        481.16|
+|        707|    Melissa|    Young|             Myanmar|    715-426-7486x903|wserrano@example.net|       2021-03-24|        204.13|
+|        912|        Lee| Martinez|           Australia|+1-811-612-2629x1...|kirbynathan@examp...|       2025-05-28|        599.55|
+|       1236|    Michael|     Cole|               Palau|   482.533.3870x9530|pattonjoshua@exam...|       2026-01-07|        611.15|
+|       5653|      Jason|Christian|      American Samoa|   (525)273-6061x898|alexander77@examp...|       2023-01-14|         91.19|
+|       3552|      Laura|    White|             Nigeria|        762-711-2349|orodriguez@exampl...|       2020-06-28|        481.08|
+|       4637|   Jennifer|    Green|            Thailand|          5203901761| diana92@example.com|       2020-06-20|        426.89|
+|       3535|  Elizabeth|     Bell|             Liberia|       (541)879-4085|xfernandez@exampl...|       2020-05-30|         112.0|
+|       3962|    Patrick|  Ramirez|              Guinea|       (700)396-3753|melissalawrence@e...|       2021-09-20|        200.24|
+|       2410|      Kelly|   Rogers|            Colombia|          8682041309|   etodd@example.com|       2020-04-19|         448.7|
+|       3831|     Joseph| Robinson|       Faroe Islands|001-833-501-0555x...|kimberly26@exampl...|       2022-06-10|        914.14|
++-----------+-----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+only showing top 20 rows

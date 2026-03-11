@@ -1,0 +1,25 @@
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|Customer ID|First Name|Last Name|             Country|               Phone|               Email|Subscription Date|PurchaseAmount|
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+|          1|  Veronica|    Kelly|               Niger|001-569-354-1874x110|robertbrandt@exam...|       2020-03-21|          NULL|
+|          2|    Brenda|     Hall|             Mayotte|       (258)423-1992|  llynch@example.org|       2022-10-01|          NULL|
+|          3|   Belinda|  Johnson|          Costa Rica|  493-499-7126x35936|jessicajackson@ex...|       2021-05-05|        821.62|
+|          3|   Belinda|  Johnson|          Costa Rica|  493-499-7126x35936|jessicajackson@ex...|       2021-05-05|        557.96|
+|          4|      Paul|   Snyder|               Niger|   680.256.9494x6543| carol12@example.net|       2020-06-21|        204.11|
+|          5|   Abigail|    Meyer|Bouvet Island (Bo...|   338-349-5529x6460|pelliott@example.com|       2021-07-12|        854.79|
+|          5|   Abigail|    Meyer|Bouvet Island (Bo...|   338-349-5529x6460|pelliott@example.com|       2021-07-12|        888.16|
+|          6|     Renee|    Gomez|           Venezuela| +1-212-430-2518x002| jason70@example.com|       2020-04-21|          NULL|
+|          7|     Robin|     Ford|             Bahamas|001-862-930-6497x846|francopaul@exampl...|       2020-12-25|        566.61|
+|          8|Jacqueline| Mccarthy|        South Africa|    809.251.0730x857|christensenseth@e...|       2021-06-14|          NULL|
+|          9|   Chelsea|   Morgan|           Gibraltar|        371.369.0385| dhunter@example.org|       2024-01-14|          NULL|
+|         10|    Bonnie|  Bennett|Saint Kitts and N...|     +1-384-274-7368|anthony72@example...|       2026-01-21|        393.14|
+|         11|      Adam|     Hale|         Switzerland|       (793)392-9379|  oberry@example.org|       2023-07-01|          NULL|
+|         12|     Jorge|  Sanchez|             Morocco|        768.714.4005|deleonhunter@exam...|       2023-03-11|        840.88|
+|         12|     Jorge|  Sanchez|             Morocco|        768.714.4005|deleonhunter@exam...|       2023-03-11|         81.37|
+|         13|  Kimberly|     Mann|Central African R...|       (957)563-7318|  callen@example.net|       2021-08-10|        528.71|
+|         14| Christina|Hernandez|               China|001-947-463-4444x...|  jallen@example.net|       2023-04-19|          NULL|
+|         15|     Roger|    Mcgee|          Kazakhstan|   713.354.7589x5610|thomas12@example.org|       2022-05-02|        806.06|
+|         16|  Victoria|    Davis|             Germany|+1-478-873-3480x5579|jonesdenise@examp...|       2025-10-08|          NULL|
+|         17|  Mitchell|    Burns|               Kenya|001-358-537-3493x...|joseph72@example.org|       2020-12-14|          NULL|
++-----------+----------+---------+--------------------+--------------------+--------------------+-----------------+--------------+
+only showing top 20 rows
